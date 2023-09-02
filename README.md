@@ -1,6 +1,6 @@
 # Portfolio
 
-My Portfolio, built using html & css. You can find me on the social media links below:
+My Portfolio, built using HTML & CSS and JS. You can find me on the social media links below:
 
 ## My Profile Links
 
@@ -12,7 +12,7 @@ My Portfolio, built using html & css. You can find me on the social media links 
 
 ## Demo link
 
-https://dpak1411.github.io/Portfolio/
+https://dpak1411.github.io/Portfolio/<br>
 https://deepakmahato.com
 
 ![App Screenshot](https://github.com/dpak141/portfolio-2023/blob/main/images/portfolio--screenshot.png?raw=true)
